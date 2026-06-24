@@ -2,6 +2,18 @@
 
 PDFMerger Desktop Lite is a small local desktop app for merging PDF files without using the web app. It is separate from the main PDFMerger project and lives in its own folder so it can be developed, packaged, or shared independently.
 
+## Part of PDFMerger
+
+PDFMerger is a practical document toolkit by Manjurul Islam, built around a simple idea: PDF tools should be fast,
+private, and easy to use.
+
+For the full browser-based toolkit, visit:
+
+[https://www.mergepdfs.co.uk/](https://www.mergepdfs.co.uk/)
+
+The main web app includes additional tools for everyday document work, while this desktop edition focuses on one
+job: merging PDFs locally from your computer.
+
 ## What It Does
 
 - Add individual PDF files or load every PDF from a folder.
